@@ -1,6 +1,8 @@
 # VolgaCTF Final devenv service
 
-A Dockerfile for a sample service container. Part of [VolgaCTF Final devenv platform](https://github.com/VolgaCTF/volgactf-final-devenv).
+[VolgaCTF Final devenv](https://github.com/VolgaCTF/volgactf-final-devenv) is a platform to develop & test an A/D CTF service and its checker.
+
+This repository provides a Dockerfile for a sample service.
 
 ## Build an image
 
